@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afikziv
-- 👀 I’m interested in Job as a Full Stack Developer
+- 👀 I’m interested in a Job as a Full Stack Developer
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me - Afikziv@gmail.com
 
