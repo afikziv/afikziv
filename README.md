@@ -1,12 +1,12 @@
 ### Hi there, I'm Afik  👋
 
 
-## I'm a Husband , Father (of My dog) and Developer!!
+## I'm a Husband , a Father (of My dog) and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sports and play fifa.⚽️⚽️🚩
+- ⚡ Fun fact: I like to do sports and play football⚽️⚽️🚩
 
 ### Connect with me:
 
