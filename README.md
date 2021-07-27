@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=afikziv)
+
 ### Hi there, I'm Afik  👋
 
 
