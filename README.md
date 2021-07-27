@@ -44,5 +44,5 @@
 
 [gmail]: mailto:afikziv@gmai.com?subject=[GitHub]%20Source%20
 [instagram]: https://instagram.com/afikziv
-[linkedin]: https://linkedin.com/afikziv/
-[facebook]: https://www.facebook.com/afikziv/
+[linkedin]: https://linkedin.com/afikziv
+[facebook]: https://www.facebook.com/afikziv
