@@ -43,6 +43,6 @@
 
 
 [gmail]: mailto:afikziv@gmai.com?subject=[GitHub]%20Source%20
-[instagram]: https://instagram.com/afikziv
-[linkedin]: https://linkedin.com/afikziv
+[instagram]: https://www.instagram.com/afikziv/
+[linkedin]: https://www.linkedin.com/in/afikziv/
 [facebook]: https://www.facebook.com/afikziv
