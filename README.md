@@ -3,7 +3,7 @@
 ### Hi there, I'm Afik  👋
 
 
-## I'm a Husband , a Father (of My dog) and Developer!!
+## I'm a Husband , a Father (of my dog) and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
