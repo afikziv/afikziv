@@ -3,7 +3,8 @@
 ### Hi there, I'm Afik  👋
 
 
-## I'm a Husband , a Father (of my dog) and a Developer!!
+## I'm a Husband, and a Father (of my dog), also a B.Sc. in Software Engineering, and a Developer!!
+
 
 - 🌱 I’m currently focusing on react,js.
 - 👯 I’m looking to collaborate with other content creators
