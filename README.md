@@ -6,7 +6,8 @@
 ## I'm a Husband, and a Father (of my dog), also a B.Sc. in Software Engineering, and a Developer!!
 
 
-- 🌱 I’m currently focusing on react,js.
+- 🌱 I’m currently focusing on contributing open source
+code to the GreenPrees platform on both the server-side and the client-side.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to do sports and play football⚽️⚽️🚩
